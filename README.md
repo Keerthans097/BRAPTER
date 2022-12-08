@@ -3,6 +3,8 @@ BRAPTER: A Compact Braille Transput Communicator
 
 [BRAPTER.zip](https://github.com/Keerthans097/BRAPTER/files/10165461/BRAPTER.zip)
 
+LINK: https://www.youtube.com/watch?v=Ci2CuKOAFfs
+
 
 ![IMG_20170829_141519201](https://user-images.githubusercontent.com/119934119/206006078-850704a7-a94e-4293-bf7b-09ec96e2057d.jpg)
 
